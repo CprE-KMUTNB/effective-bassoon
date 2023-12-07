@@ -3,7 +3,7 @@
   <h1 align="center">myFridge</h1>
 
   <p align="center">
-    Repository for Software Development Practice I project. An ambition to build a web app that can help remind you when your food expires.
+    Repository for Software Development Practice I project. An website that helps reminding you when your food will expire.
     <br/>
     <br/>
   </p>
