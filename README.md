@@ -3,7 +3,7 @@
   <h1 align="center">myFridge</h1>
 
   <p align="center">
-    Repository for Software Development Practice I project. An website that helps reminding you when your food will expire.
+    A website that can help you with your food expiring problems.
     <br/>
     <br/>
   </p>
@@ -22,7 +22,7 @@
 **Project Description:**
 
 **Introduction:**
-The myFridge Expiry Date Reminder and Notification Web Application is a user-friendly and efficient solution designed to help individuals manage their fridge contents by reminding them of the impending expiration dates of stored products. The application aims to reduce food wastage and improve household organization by providing timely alerts and notifications for items approaching their expiration dates.
+The myFridge Expiry Date Reminder and Notification Web Application is a user-friendly and efficient solution designed to help user to manage their fridge contents by reminding them of the impending expiration dates of stored products. The application aims to reduce food wastage and improve household organization by providing timely alerts and notifications for items approaching their expiration dates.
 
 **Features:**
 
@@ -43,14 +43,15 @@ The myFridge Expiry Date Reminder and Notification Web Application is a user-fri
 
 ## Built With
 
-- Node JS
 - Next JS
+- Node JS
 - Express JS
 - Vercel
 - Visual Studio Code
 - Azure Database for MySQL
 
 ## Usage
+This project was designed to be user friendly and easily used by reading and follow the instruction we provided for you here. [myFridge's_Guide_101.pdf](https://kmutnbacth-my.sharepoint.com/personal/s6501012630034_kmutnb_ac_th/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fs6501012630034%5Fkmutnb%5Fac%5Fth%2FDocuments%2FY2S1%20Files%2FSoftware%20Development%20Practice%20I%2FmyFridge%20User%20Manual%2Epdf&parent=%2Fpersonal%2Fs6501012630034%5Fkmutnb%5Fac%5Fth%2FDocuments%2FY2S1%20Files%2FSoftware%20Development%20Practice%20I&ga=1)
 
 <img align="center" src="https://github.com/NickKhunapoj/myFridge/assets/93870412/1af7bab8-7905-476c-bb20-081f09ba23fc">
 
@@ -60,5 +61,12 @@ Distributed under the MIT License. See [LICENSE](https://github.com/NickKhunapoj
 
 ## Authors
 
-* **Khunapoj Suttenon** - *Cpr.E KMUTNB* - [Khunapoj Suttenon](https://github.com/NickKhunapoj) - **
-* **Sirapob Chormpinta** - *Cpr.E KMUTNB* - [Sirapob Chormpinta](https://github.com/MisterSirch) - **
+* **Khunapoj Suttenon** - *Cpr.E KMUTNB* - 65-010126-3003-4 - [Khunapoj Suttenon](https://github.com/NickKhunapoj)
+* **Sirapob Chormpinta** - *Cpr.E KMUTNB* - 65-010126-2010-1 - [Sirapob Chormpinta](https://github.com/MisterSirch)
+
+## More information (Our wiki page)
+
+* [01 Source Code Repos and Version Control](https://github.com/NickKhunapoj/myFridge/wiki/01-Source-Code-Repos-and-Version-Control)
+* [02 Cloud for App Deployment](https://github.com/NickKhunapoj/myFridge/wiki/02-Cloud-for-App-Deployment)
+* [03 Development Frameworks](https://github.com/NickKhunapoj/myFridge/wiki/03-Development-Frameworks)
+* [04 Software Tools and Library](https://github.com/NickKhunapoj/myFridge/wiki/04-Software-Tools-and-Library)
