@@ -66,7 +66,7 @@ Distributed under the MIT License. See [LICENSE](https://github.com/NickKhunapoj
 
 ## More information (Our wiki page)
 
-* [01 Source Code Repos and Version Control](https://github.com/NickKhunapoj/myFridge/wiki/01-Source-Code-Repos-and-Version-Control)
-* [02 Cloud for App Deployment](https://github.com/NickKhunapoj/myFridge/wiki/02-Cloud-for-App-Deployment)
-* [03 Development Frameworks](https://github.com/NickKhunapoj/myFridge/wiki/03-Development-Frameworks)
-* [04 Software Tools and Library](https://github.com/NickKhunapoj/myFridge/wiki/04-Software-Tools-and-Library)
+* [01 Source Code Repos and Version Control](https://github.com/MisterSirch/myFridge/wiki/01-Source-Code-Repos-and-Version-Control)
+* [02 Cloud for App Deployment](https://github.com/MisterSirch/myFridge/wiki/02-Cloud-for-App-Deployment)
+* [03 Development Frameworks](https://github.com/MisterSirch/myFridge/wiki/03-Development-Frameworks)
+* [04 Software Tools and Library](https://github.com/MisterSirch/myFridge/wiki/04-Software-Tools-and-Library)
